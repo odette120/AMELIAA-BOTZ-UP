@@ -50,19 +50,19 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6283863727401', 'Amelia-MD', true],
+['62895366943070', 'IRMA X BOT', true],
 ]
 global.autoketik = true //status auto mengetik (auto typing)
 global.available = true //status online (online)
 // Other
-global.mods = ['6283863727401']
-global.prems = ['6283863727401']
-global.nomorbot = '6283863727740'
-global.nameown = 'PutraModz'
-global.nomorown = '6283863727401'
-global.nomorown1 = '6282214729677'
-global.nomorown2 = '6282214729677'
-global.nomorwa = '082214729677'
+global.mods = ['62895366943070']
+global.prems = ['62895366943070']
+global.nomorbot = '16565655162'
+global.nameown = 'IRMA X BOT'
+global.nomorown = '16565655162'
+global.nomorown1 = '62895366943070'
+global.nomorown2 = '62895366943070'
+global.nomorwa = '62895366943070'
 global.limitawal = {
 
     premium: "Infinity",
@@ -74,34 +74,34 @@ global.limitawal = {
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.gcname = 'Amelia MD'//nama group kalian
-global.author = 'PutraModz' //ganti aja cuyyy
-global.namebot = '​Amelia-Md' //nama bot luh
-global.wm = '© Amelia-Md' //ganti aja
+global.gcname = 'irma MD'//nama group kalian
+global.author = 'irma Modz' //ganti aja cuyyy
+global.namebot = '​Irma-Md' //nama bot luh
+global.wm = '© Irma-Md' //ganti aja
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg' //bebas
-global.wm = 'Amelia-Md ' //wm nyaa kocak
+global.wm = 'Irma-Md ' //wm nyaa kocak
 global.watermark = wm //bebas
-global.wm2 = 'PutraModz' //ganti ajaa
-global.wm3 = 'Amelia Botz by PutraModz' // ganti jugaa
+global.wm2 = 'IrmaaaModz' //ganti ajaa
+global.wm3 = 'Amelia Botz by IrmaaaModz' // ganti jugaa
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`//ga usah dehhh 
 global.bottime = `T I M E : ${wktuwib}` //ini juga ga usah 
-global.titlebot = `Amelia-Md | PutraModz` //ganti aja
-global.stickpack = 'Amelia-Modz' //ganti 
-global.stickauth = `© Amelia-Md` //gantii 
+global.titlebot = `Irmaaa-Md | PutraModz` //ganti aja
+global.stickpack = 'Irmaaa-Modz' //ganti 
+global.stickauth = `© Irmaaa-Md` //gantii 
 global.week = `${week} ${date}` //Gak usah
 global.wibb = `${wktuwib}` // Gak usah 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'Amelia Putri septiany' //ganti 
-global.nameown2 = 'PutraModz' //ganti 
+global.nameown1= 'Irmayanti' //ganti 
+global.nameown2 = 'Ilham' //ganti 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Tunggu Sebentar Kak...'
-global.lynk = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff'//ganti jadi link gc luh
+global.lynk = 'https://chat.whatsapp.com/FfE3OTcQCayiabos8Ff'//ganti jadi link gc luh
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.sig = 'https://instagram.com/l4c1f2r' //ganti jadi ig mu
 global.sgh = 'https://github.com/Lucife-Putra' //github
-global.sgc = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff' //group whatsapp
+global.sgc = 'https://chat.whatsapp.com/FR1KfE3OTcQCaabos8Ff' //group whatsapp
 global.gcwangsaf = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff' //Group wa juga 
 global.fakeyt = 'https://youtu.be/dTNrtQagzmc' //Yt jika punya
 global.sdc = '-' //discord klo ga punya ga usah biarin aja
@@ -110,12 +110,12 @@ global.snh = 'https://youtube.com/@Putra_Modz_' //yt klo punya
 global.wame = 'https://api.whatsapp.com/send?phone=+6283863727401' //Tautan Wa Kalian
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '083864727401' //Isi aja klo punya 
+global.pdana = '079736283929' //Isi aja klo punya 
 global.povo = '-' //Isi Aja klo punya 
-global.pgopay = '082214729677' //Isi aja klo punya 
+global.pgopay = '0895366943070' //Isi aja klo punya 
 global.plinkaja = '-' //link aja,isi Klo punya
-global.ppulsa = '083863727401' //Isi aja klo punya 
-global.ppulsa2 = '082214729677' //Isi aja klo punya 
+global.ppulsa = '-' //Isi aja klo punya 
+global.ppulsa2 = '-' //Isi aja klo punya 
 global.psaweria = 'https://telegra.ph/file/98338a583efeb3d34a70b.jpg' //Ganti aja ini Link gambar QR
 
 //bebas cuyyy yg atas mahh 
